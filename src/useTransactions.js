@@ -1,6 +1,5 @@
 import { useContext } from "react";
 import { ExpenseTrackerContext } from './context/context';
-import {Chart, ArcElement} from 'chart.js'
 
 import { incomeCategories, expenseCategories, resetCategories } from './constants/categories';
 
